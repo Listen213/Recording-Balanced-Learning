@@ -1,0 +1,9 @@
+{
+  "cache": "/root/autodl-tmp/RBL_UNIQUESHIP_8CLASS_FINAL_CLEAN/cache/uniqueship_8class_beats_5s.npz",
+  "rows": 6142,
+  "shape": [
+    6142,
+    768
+  ],
+  "device": "cuda"
+}
