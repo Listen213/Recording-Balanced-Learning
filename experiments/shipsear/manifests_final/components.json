@@ -1,0 +1,1060 @@
+[
+  {
+    "component_id": "cmp_5122f9e38ce7",
+    "label_name": "A_Large_Merchant_Ship",
+    "size": 1,
+    "recording_ids": [
+      "80__04_10_12_adricristuy"
+    ],
+    "source_types": [
+      "dredger"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_6d02b083d530",
+    "label_name": "D_Ferry",
+    "size": 1,
+    "recording_ids": [
+      "10__10_07_13_marDeOnza_Sale"
+    ],
+    "source_types": [
+      "passengers"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "cmp_90b009388aa6",
+    "label_name": "D_Ferry",
+    "size": 1,
+    "recording_ids": [
+      "14__10_07_13_piraCies_Espera"
+    ],
+    "source_types": [
+      "passengers"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_d7cffae6299e",
+    "label_name": "B_Small_Speedboat",
+    "size": 1,
+    "recording_ids": [
+      "15__10_07_13_radaUno_Pasa"
+    ],
+    "source_types": [
+      "tugboat"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_70525e4b4459",
+    "label_name": "D_Ferry",
+    "size": 1,
+    "recording_ids": [
+      "6__10_07_13_marDeCangas_Entra"
+    ],
+    "source_types": [
+      "passengers"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_5145d3be2460",
+    "label_name": "D_Ferry",
+    "size": 1,
+    "recording_ids": [
+      "7__10_07_13_marDeCangas_Espera"
+    ],
+    "source_types": [
+      "passengers"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_846a1b204b81",
+    "label_name": "D_Ferry",
+    "size": 1,
+    "recording_ids": [
+      "13__10_07_13_piraCies_Entra"
+    ],
+    "source_types": [
+      "passengers"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_eba98a1337e9",
+    "label_name": "D_Ferry",
+    "size": 1,
+    "recording_ids": [
+      "11__10_07_13_minhoUno_Entra"
+    ],
+    "source_types": [
+      "passengers"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_6734f956dd79",
+    "label_name": "D_Ferry",
+    "size": 1,
+    "recording_ids": [
+      "12__10_07_13_minhoUno_Sale"
+    ],
+    "source_types": [
+      "passengers"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "cmp_9d2fe35fb2fd",
+    "label_name": "D_Ferry",
+    "size": 1,
+    "recording_ids": [
+      "17__10_07_13_visionSub_Entra"
+    ],
+    "source_types": [
+      "passengers"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "cmp_1f94bfe5b023",
+    "label_name": "D_Ferry",
+    "size": 1,
+    "recording_ids": [
+      "8__10_07_13_marDeOnza_Entra"
+    ],
+    "source_types": [
+      "passengers"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_4d58467427f5",
+    "label_name": "D_Ferry",
+    "size": 1,
+    "recording_ids": [
+      "9__10_07_13_marDeOnza_Espera"
+    ],
+    "source_types": [
+      "passengers"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "cmp_66522971b4c6",
+    "label_name": "A_Large_Merchant_Ship",
+    "size": 1,
+    "recording_ids": [
+      "16__10_07_13_mscOpera_InicioSalida"
+    ],
+    "source_types": [
+      "ocean liner"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_4a5022186458",
+    "label_name": "B_Small_Speedboat",
+    "size": 1,
+    "recording_ids": [
+      "21__18_07_13_lanchaMotora"
+    ],
+    "source_types": [
+      "motorboat"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_5123ea3c78fd",
+    "label_name": "A_Large_Merchant_Ship",
+    "size": 1,
+    "recording_ids": [
+      "18__18_07_13_AutoPrideEntra"
+    ],
+    "source_types": [
+      "roro"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "cmp_ebb40ea50a79",
+    "label_name": "A_Large_Merchant_Ship",
+    "size": 1,
+    "recording_ids": [
+      "19__18_07_13_AutoprideMarchaAtras"
+    ],
+    "source_types": [
+      "roro"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_bc68084650b8",
+    "label_name": "A_Large_Merchant_Ship",
+    "size": 1,
+    "recording_ids": [
+      "20__18_07_13_AutopridePrepManiobra"
+    ],
+    "source_types": [
+      "roro"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "cmp_988efa1595bd",
+    "label_name": "D_Ferry",
+    "size": 1,
+    "recording_ids": [
+      "38__19_07_13_Arroios_Sale_2entran"
+    ],
+    "source_types": [
+      "passengers"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_12121e4e1413",
+    "label_name": "D_Ferry",
+    "size": 1,
+    "recording_ids": [
+      "40__19_07_13_MarDeCangas_Llega_Interf"
+    ],
+    "source_types": [
+      "passengers"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_7d119cc928fa",
+    "label_name": "D_Ferry",
+    "size": 1,
+    "recording_ids": [
+      "43__19_07_13_PirataDeCies_Llega_Interf"
+    ],
+    "source_types": [
+      "passengers"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_4f2a9fc57c8c",
+    "label_name": "D_Ferry",
+    "size": 1,
+    "recording_ids": [
+      "42__19_07_13_PirataCies_Sale"
+    ],
+    "source_types": [
+      "passengers"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_b15f0c88cac4",
+    "label_name": "D_Ferry",
+    "size": 1,
+    "recording_ids": [
+      "41__19_07_13_MiñoUno_Entra"
+    ],
+    "source_types": [
+      "passengers"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_1468f03fcb78",
+    "label_name": "B_Small_Speedboat",
+    "size": 1,
+    "recording_ids": [
+      "39__19_07_13_lanchaMotora_Entra"
+    ],
+    "source_types": [
+      "motorboat"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "cmp_b913ae72481d",
+    "label_name": "B_Small_Speedboat",
+    "size": 1,
+    "recording_ids": [
+      "45__19_07_13_yate_Sale"
+    ],
+    "source_types": [
+      "motorboat"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "cmp_48f2adb05bc6",
+    "label_name": "B_Small_Speedboat",
+    "size": 1,
+    "recording_ids": [
+      "26__19_07_13_Lancha"
+    ],
+    "source_types": [
+      "motorboat"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_b89345a66814",
+    "label_name": "B_Small_Speedboat",
+    "size": 1,
+    "recording_ids": [
+      "27__19_07_13_Lancha2"
+    ],
+    "source_types": [
+      "motorboat"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "cmp_7bb5fb50c0ca",
+    "label_name": "C_Fishing_Boat",
+    "size": 1,
+    "recording_ids": [
+      "28__19_07_13_NuevoRiaAldan"
+    ],
+    "source_types": [
+      "trawler"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_ace0651ec4ed",
+    "label_name": "B_Small_Speedboat",
+    "size": 1,
+    "recording_ids": [
+      "31__19_07_13_RemolcadorArrancaPara"
+    ],
+    "source_types": [
+      "tugboat"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_de36f724b32e",
+    "label_name": "B_Small_Speedboat",
+    "size": 1,
+    "recording_ids": [
+      "29__19_07_13_practico"
+    ],
+    "source_types": [
+      "pilot ship"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "cmp_602fead1a1b6",
+    "label_name": "B_Small_Speedboat",
+    "size": 1,
+    "recording_ids": [
+      "30__19_07_13_practico2"
+    ],
+    "source_types": [
+      "pilot ship"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_41f2a6d3c5fa",
+    "label_name": "A_Large_Merchant_Ship",
+    "size": 1,
+    "recording_ids": [
+      "24__19_07_13_adventureFrenando_duda"
+    ],
+    "source_types": [
+      "ocean liner"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "cmp_97149a8d2f33",
+    "label_name": "A_Large_Merchant_Ship",
+    "size": 1,
+    "recording_ids": [
+      "25__19_07_13_adventureOfTheSea_llegando"
+    ],
+    "source_types": [
+      "ocean liner"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_cb6ddfa7a8db",
+    "label_name": "A_Large_Merchant_Ship",
+    "size": 1,
+    "recording_ids": [
+      "22__19_07_13_adventure_maniobra"
+    ],
+    "source_types": [
+      "ocean liner"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_87902fcfbbf7",
+    "label_name": "A_Large_Merchant_Ship",
+    "size": 1,
+    "recording_ids": [
+      "23__19_07_13_adventure_parado"
+    ],
+    "source_types": [
+      "ocean liner"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_5e103b087acf",
+    "label_name": "B_Small_Speedboat",
+    "size": 1,
+    "recording_ids": [
+      "37__19_07_13_Velero_Sale"
+    ],
+    "source_types": [
+      "sailboat"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_e30a12319564",
+    "label_name": "D_Ferry",
+    "size": 1,
+    "recording_ids": [
+      "36__19_07_13_MiñoUno_Sale"
+    ],
+    "source_types": [
+      "passengers"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "cmp_0ef2e3f42ead",
+    "label_name": "D_Ferry",
+    "size": 1,
+    "recording_ids": [
+      "34__19_07_13_MarDeOnza_Llega"
+    ],
+    "source_types": [
+      "passengers"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "cmp_3f3284738019",
+    "label_name": "B_Small_Speedboat",
+    "size": 1,
+    "recording_ids": [
+      "33__19_07_13_lanchaDuda_Sale"
+    ],
+    "source_types": [
+      "motorboat"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_7cfd6090dd47",
+    "label_name": "D_Ferry",
+    "size": 1,
+    "recording_ids": [
+      "35__19_07_13_MarDeOnza_sale"
+    ],
+    "source_types": [
+      "passengers"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "cmp_0d2cea5fd612",
+    "label_name": "D_Ferry",
+    "size": 1,
+    "recording_ids": [
+      "32__19_07_13_Arroios_llega"
+    ],
+    "source_types": [
+      "passengers"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_cf4d12d58348",
+    "label_name": "C_Fishing_Boat",
+    "size": 1,
+    "recording_ids": [
+      "46__23_07_13_H3_bateero1"
+    ],
+    "source_types": [
+      "mussel boat"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "cmp_604d2d27c4b3",
+    "label_name": "D_Ferry",
+    "size": 1,
+    "recording_ids": [
+      "54__23_07_13_H3_PirataSalvora_SALE1"
+    ],
+    "source_types": [
+      "passengers"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_92350524f360",
+    "label_name": "B_Small_Speedboat",
+    "size": 1,
+    "recording_ids": [
+      "56__23_07_13_H3_velero1"
+    ],
+    "source_types": [
+      "sailboat"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_15707baaeb61",
+    "label_name": "B_Small_Speedboat",
+    "size": 1,
+    "recording_ids": [
+      "57__23_07_13_H3_velero2"
+    ],
+    "source_types": [
+      "sailboat"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_6f5110c7b102",
+    "label_name": "C_Fishing_Boat",
+    "size": 1,
+    "recording_ids": [
+      "47__23_07_13_H2_bateero2"
+    ],
+    "source_types": [
+      "mussel boat"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_87352d7cc8c9",
+    "label_name": "B_Small_Speedboat",
+    "size": 1,
+    "recording_ids": [
+      "50__23_07_13_H3_lancha1"
+    ],
+    "source_types": [
+      "motorboat"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "cmp_8077af82bbf5",
+    "label_name": "C_Fishing_Boat",
+    "size": 1,
+    "recording_ids": [
+      "48__23_07_13_H3_bateero3_interf"
+    ],
+    "source_types": [
+      "mussel boat"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_0821e7c2e423",
+    "label_name": "D_Ferry",
+    "size": 1,
+    "recording_ids": [
+      "53__23_07_13_H3_PirataSalvora_Llega1"
+    ],
+    "source_types": [
+      "passengers"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "cmp_4a5c488bf3d8",
+    "label_name": "B_Small_Speedboat",
+    "size": 1,
+    "recording_ids": [
+      "51__23_07_13_H3_lancha2_interf"
+    ],
+    "source_types": [
+      "motorboat"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_8bc789b8bd32",
+    "label_name": "B_Small_Speedboat",
+    "size": 1,
+    "recording_ids": [
+      "52__23_07_13_H3_lancha3_interf"
+    ],
+    "source_types": [
+      "motorboat"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_06e361b16c8e",
+    "label_name": "C_Fishing_Boat",
+    "size": 1,
+    "recording_ids": [
+      "49__23_07_13_H1_bateero4"
+    ],
+    "source_types": [
+      "mussel boat"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_9219eeaf19ac",
+    "label_name": "D_Ferry",
+    "size": 1,
+    "recording_ids": [
+      "55__23_07_13_H3_PirataSalvora_SALE2"
+    ],
+    "source_types": [
+      "passengers"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_5cae21e4ba83",
+    "label_name": "D_Ferry",
+    "size": 1,
+    "recording_ids": [
+      "62__23_07_13_H3_MarDeCangas_SALE"
+    ],
+    "source_types": [
+      "passengers"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_6886f2630fb8",
+    "label_name": "D_Ferry",
+    "size": 1,
+    "recording_ids": [
+      "63__23_07_13_H3_MarDeOnza_LLEGA"
+    ],
+    "source_types": [
+      "passengers"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_0180aa02f555",
+    "label_name": "D_Ferry",
+    "size": 1,
+    "recording_ids": [
+      "67__23_07_13_H3_PirataCiesSale"
+    ],
+    "source_types": [
+      "passengers"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_83c0370b3c32",
+    "label_name": "A_Large_Merchant_Ship",
+    "size": 1,
+    "recording_ids": [
+      "58__23_07_13_H2_EimskipReefer_Pesquerito1"
+    ],
+    "source_types": [
+      "roro"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_ee3888d1bfcc",
+    "label_name": "C_Fishing_Boat",
+    "size": 1,
+    "recording_ids": [
+      "66__23_07_13_H3_Pesquerito2_Velero"
+    ],
+    "source_types": [
+      "mussel boat"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_ea87ec7041a5",
+    "label_name": "D_Ferry",
+    "size": 1,
+    "recording_ids": [
+      "60__23_07_13_H3_MarDeCangas_LLEGA"
+    ],
+    "source_types": [
+      "passengers"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_2b7bd6fdfd6c",
+    "label_name": "D_Ferry",
+    "size": 1,
+    "recording_ids": [
+      "59__23_07_13_H2_MarDeMouro"
+    ],
+    "source_types": [
+      "passengers"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "cmp_1fcc6a0bdf87",
+    "label_name": "D_Ferry",
+    "size": 1,
+    "recording_ids": [
+      "65__23_07_13_H3_MinhoUno_LLEGA"
+    ],
+    "source_types": [
+      "passengers"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_57051ad1fd8f",
+    "label_name": "D_Ferry",
+    "size": 1,
+    "recording_ids": [
+      "61__23_07_13_H3_MarDeCangas_SALE-2"
+    ],
+    "source_types": [
+      "passengers"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_23a4a1e91076",
+    "label_name": "D_Ferry",
+    "size": 1,
+    "recording_ids": [
+      "64__23_07_13_H3_MarDeOnza_SALE"
+    ],
+    "source_types": [
+      "passengers"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_0012ab895790",
+    "label_name": "B_Small_Speedboat",
+    "size": 1,
+    "recording_ids": [
+      "68__23_07_13_H3_veleroMarisol"
+    ],
+    "source_types": [
+      "sailboat"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "cmp_aa0dfac3ab59",
+    "label_name": "A_Large_Merchant_Ship",
+    "size": 1,
+    "recording_ids": [
+      "71__23_07_13_H3_Discovery_UK_DUDA"
+    ],
+    "source_types": [
+      "ocean liner"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_88c337bf97c5",
+    "label_name": "B_Small_Speedboat",
+    "size": 1,
+    "recording_ids": [
+      "77__23_07_13_H3_Planeadora"
+    ],
+    "source_types": [
+      "motorboat"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_d7377173b089",
+    "label_name": "C_Fishing_Boat",
+    "size": 1,
+    "recording_ids": [
+      "75__23_07_13_H3_pesquero1"
+    ],
+    "source_types": [
+      "fishboat"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_63b154abb2f3",
+    "label_name": "B_Small_Speedboat",
+    "size": 1,
+    "recording_ids": [
+      "79__23_07_13_H3_zodiac"
+    ],
+    "source_types": [
+      "motorboat"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_8275f4d2e1c2",
+    "label_name": "C_Fishing_Boat",
+    "size": 1,
+    "recording_ids": [
+      "73__23_07_13_H3_pesqMariCarmen"
+    ],
+    "source_types": [
+      "fishboat"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "cmp_dbff68a80c62",
+    "label_name": "C_Fishing_Boat",
+    "size": 1,
+    "recording_ids": [
+      "76__23_07_13_H3_pesquero2"
+    ],
+    "source_types": [
+      "fishboat"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_f7211cd5fc93",
+    "label_name": "B_Small_Speedboat",
+    "size": 1,
+    "recording_ids": [
+      "72__23_07_13_H3_lancha2"
+    ],
+    "source_types": [
+      "motorboat"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_41e04e4223b5",
+    "label_name": "C_Fishing_Boat",
+    "size": 1,
+    "recording_ids": [
+      "74__23_07_13_H3_pesqSaladinoPrimero"
+    ],
+    "source_types": [
+      "fishboat"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "cmp_e5ae339a5a8b",
+    "label_name": "B_Small_Speedboat",
+    "size": 1,
+    "recording_ids": [
+      "70__23_07_13_H2_yatePeq"
+    ],
+    "source_types": [
+      "motorboat"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_35e501be47b4",
+    "label_name": "A_Large_Merchant_Ship",
+    "size": 1,
+    "recording_ids": [
+      "69__23_07_13_H2_costaVoyager"
+    ],
+    "source_types": [
+      "ocean liner"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_b8d4d7fac740",
+    "label_name": "A_Large_Merchant_Ship",
+    "size": 1,
+    "recording_ids": [
+      "78__23_07_13_H3_vikingChance"
+    ],
+    "source_types": [
+      "roro"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "cmp_73974ccdfda7",
+    "label_name": "E_Ambient_Noise",
+    "size": 1,
+    "recording_ids": [
+      "85__E__1L"
+    ],
+    "source_types": [
+      "natural ambient noise"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_2cdd9dc3e912",
+    "label_name": "E_Ambient_Noise",
+    "size": 3,
+    "recording_ids": [
+      "86__E__2M",
+      "89__E__5M",
+      "92__E__8H_N"
+    ],
+    "source_types": [
+      "natural ambient noise"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "cmp_596d0face46b",
+    "label_name": "E_Ambient_Noise",
+    "size": 1,
+    "recording_ids": [
+      "87__E__3H"
+    ],
+    "source_types": [
+      "natural ambient noise"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_1b071b07e66d",
+    "label_name": "E_Ambient_Noise",
+    "size": 1,
+    "recording_ids": [
+      "88__E__4L"
+    ],
+    "source_types": [
+      "natural ambient noise"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_f68fd301a0a4",
+    "label_name": "E_Ambient_Noise",
+    "size": 1,
+    "recording_ids": [
+      "90__E__6H"
+    ],
+    "source_types": [
+      "natural ambient noise"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "cmp_c6e421e9f29e",
+    "label_name": "E_Ambient_Noise",
+    "size": 1,
+    "recording_ids": [
+      "91__E__7H_N"
+    ],
+    "source_types": [
+      "natural ambient noise"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_c3113de937cc",
+    "label_name": "E_Ambient_Noise",
+    "size": 1,
+    "recording_ids": [
+      "81__25_09_13_H3_corriente"
+    ],
+    "source_types": [
+      "natural ambient noise"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_bc75320bd7f9",
+    "label_name": "E_Ambient_Noise",
+    "size": 1,
+    "recording_ids": [
+      "83__27_09_13_H3_oleaje"
+    ],
+    "source_types": [
+      "natural ambient noise"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_f5b9b862cbf8",
+    "label_name": "E_Ambient_Noise",
+    "size": 1,
+    "recording_ids": [
+      "82__27_09_13_H3_lluvia"
+    ],
+    "source_types": [
+      "natural ambient noise"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_cd897892ea0a",
+    "label_name": "E_Ambient_Noise",
+    "size": 1,
+    "recording_ids": [
+      "84__27_09_13_H3_viento"
+    ],
+    "source_types": [
+      "natural ambient noise"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_b7eca764545d",
+    "label_name": "A_Large_Merchant_Ship",
+    "size": 1,
+    "recording_ids": [
+      "93__A__Draga_1"
+    ],
+    "source_types": [
+      "dredger"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_1d040536a3aa",
+    "label_name": "A_Large_Merchant_Ship",
+    "size": 1,
+    "recording_ids": [
+      "94__A__Draga_2"
+    ],
+    "source_types": [
+      "dredger"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "cmp_2c28a3695784",
+    "label_name": "A_Large_Merchant_Ship",
+    "size": 1,
+    "recording_ids": [
+      "95__A__Draga_3"
+    ],
+    "source_types": [
+      "dredger"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "cmp_48e61c8818f1",
+    "label_name": "A_Large_Merchant_Ship",
+    "size": 1,
+    "recording_ids": [
+      "96__A__Draga_4"
+    ],
+    "source_types": [
+      "dredger"
+    ],
+    "split": "support_pool"
+  }
+]

@@ -1,0 +1,97 @@
+{
+  "lock_version": 1,
+  "config_sha256": "f9c244cc12b884bae4010f51579aeb50f23cb13b8a9b999a3b674a4972faf268",
+  "support_manifest_sha256": "9cf17cf15c8a37b59b0eaf4a668a094317c02cd366aa2814729e6f17f3238c9e",
+  "test_manifest_sha256": "93682b6b613e98d148b047f807bc39f202f2ff0976643e65a4236a94a1439362",
+  "support_cache_sha256": "ed34f1136d17b6106db9b8d399bce8ad87b33bc5c6846b57b32e95998fe87858",
+  "test_cache_sha256": "bc888ec49db64d1418df5d8efab987fd3b1749911974bb4594bb37cc3573d4a3",
+  "components_sha256": "9e83a77651ec1881c1d027b33cbeef3c44b437bff40ef9c391cce9df6a396537",
+  "leakage_audit_sha256": "f15a9e92ed1e1e4b0a6f59544745f8e8dd9bb22b69e668a5c64e0e37c20069dd",
+  "split_summary_sha256": "981b283ea7bd4d0e51feb364a5e91af67ce1fbcd317fa14d4cf8288dbd1aa3a2",
+  "config": {
+    "project": "RIFT_FEWREC_FINAL_FULL",
+    "dataset": "ShipsEar",
+    "taxonomy": "user5",
+    "final_split": {
+      "seed": 20261014,
+      "test_ratio": 0.3,
+      "near_duplicate_threshold": 0.997,
+      "min_support_components_per_class": 6,
+      "segment_sec": 5.0,
+      "hop_sec": 5.0,
+      "target_sr": 16000,
+      "fingerprint_sr": 8000,
+      "fingerprint_window_sec": 20.0,
+      "fingerprint_windows": 3
+    },
+    "few_recording_protocol": {
+      "shots": [
+        2,
+        3,
+        4
+      ],
+      "support_seeds": [
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120
+      ],
+      "source_aware": true,
+      "include_full_support_reference": true
+    },
+    "methods": [
+      "S0",
+      "S1",
+      "PB",
+      "PT",
+      "F0"
+    ],
+    "proposed_method": "F0",
+    "paper_name_for_F0": "Dual-Granularity Evidence Fusion",
+    "segment_probe": {
+      "logistic_C": 0.1
+    },
+    "prototype_tuning": {
+      "rank": 2,
+      "steps": 160,
+      "lr": 0.05,
+      "l2": 0.3,
+      "temperature": 0.25
+    },
+    "statistics": {
+      "hierarchical_bootstrap_iters": 5000,
+      "bootstrap_seed": 20261014
+    },
+    "final_test_policy": {
+      "development_seed42_test_is_forbidden": true,
+      "print_intermediate_test_metrics": false,
+      "final_test_must_be_component_disjoint": true
+    }
+  },
+  "paths": {
+    "config": "FINAL_CONFIG.json",
+    "support_manifest": "manifests_final/support_pool.json",
+    "test_manifest": "manifests_final/test.json",
+    "support_cache": "cache/beats_final/support_pool.pt",
+    "test_cache": "cache/beats_final/test.pt",
+    "components": "manifests_final/components.json",
+    "leakage_audit": "manifests_final/leakage_audit.json",
+    "split_summary": "manifests_final/split_summary.json"
+  }
+}
