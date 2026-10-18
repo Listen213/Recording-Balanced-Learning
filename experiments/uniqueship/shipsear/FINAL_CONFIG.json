@@ -1,0 +1,76 @@
+{
+  "project": "RIFT_FEWREC_FINAL_FULL",
+  "dataset": "ShipsEar",
+  "taxonomy": "user5",
+  "final_split": {
+    "seed": 20261014,
+    "test_ratio": 0.3,
+    "near_duplicate_threshold": 0.997,
+    "min_support_components_per_class": 6,
+    "segment_sec": 5.0,
+    "hop_sec": 5.0,
+    "target_sr": 16000,
+    "fingerprint_sr": 8000,
+    "fingerprint_window_sec": 20.0,
+    "fingerprint_windows": 3
+  },
+  "few_recording_protocol": {
+    "shots": [
+      2,
+      3,
+      4
+    ],
+    "support_seeds": [
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120
+    ],
+    "source_aware": true,
+    "include_full_support_reference": true
+  },
+  "methods": [
+    "S0",
+    "S1",
+    "PB",
+    "PT",
+    "F0"
+  ],
+  "proposed_method": "F0",
+  "paper_name_for_F0": "Dual-Granularity Evidence Fusion",
+  "segment_probe": {
+    "logistic_C": 0.1
+  },
+  "prototype_tuning": {
+    "rank": 2,
+    "steps": 160,
+    "lr": 0.05,
+    "l2": 0.3,
+    "temperature": 0.25
+  },
+  "statistics": {
+    "hierarchical_bootstrap_iters": 5000,
+    "bootstrap_seed": 20261014
+  },
+  "final_test_policy": {
+    "development_seed42_test_is_forbidden": true,
+    "print_intermediate_test_metrics": false,
+    "final_test_must_be_component_disjoint": true
+  }
+}

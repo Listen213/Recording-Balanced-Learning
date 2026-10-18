@@ -1,0 +1,2304 @@
+[
+  {
+    "component_id": "exact_04212d8ffce1",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/66"
+    ],
+    "dates": [],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_0940189a66c5",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/71"
+    ],
+    "dates": [],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_0dad6f4b14dc",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/54"
+    ],
+    "dates": [],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_1e2cc07d6522",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/70"
+    ],
+    "dates": [],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_20062979bd38",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/48"
+    ],
+    "dates": [],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_2176ea26c09b",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/43"
+    ],
+    "dates": [],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_2a9aafd124b1",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/35"
+    ],
+    "dates": [],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_2aa73d1813ad",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/86"
+    ],
+    "dates": [],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_2c56fdf04ed9",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/19"
+    ],
+    "dates": [],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_3181424225e8",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/32"
+    ],
+    "dates": [],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_392db2771e2d",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/85"
+    ],
+    "dates": [],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_3d27c0194e2a",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/14"
+    ],
+    "dates": [],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_3f2977fcc37f",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/98"
+    ],
+    "dates": [],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_45354a919404",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/3"
+    ],
+    "dates": [],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_4b14963e3324",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/57"
+    ],
+    "dates": [],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_5344c65b4ae8",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/29"
+    ],
+    "dates": [],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_53936b44ecaa",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/80"
+    ],
+    "dates": [],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_562566e781a8",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/2"
+    ],
+    "dates": [],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_5c35eb790632",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/74"
+    ],
+    "dates": [],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_63585f0233cd",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/28"
+    ],
+    "dates": [],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_63995563ed07",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/105"
+    ],
+    "dates": [],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_6e746b09588b",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/63"
+    ],
+    "dates": [],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_80cc9cd9cb51",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/53"
+    ],
+    "dates": [],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_921b2a0d4346",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/38"
+    ],
+    "dates": [],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_9928a9567b9f",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/99"
+    ],
+    "dates": [],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_995a4c25ee53",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/30"
+    ],
+    "dates": [],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_9a86e29777b3",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/110"
+    ],
+    "dates": [],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_a1575720437a",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/56"
+    ],
+    "dates": [],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_a6c4070843ad",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/17"
+    ],
+    "dates": [],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_aa97a341185c",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/77"
+    ],
+    "dates": [],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_add7e3499f7a",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/106"
+    ],
+    "dates": [],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_b1920d05b8aa",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/82"
+    ],
+    "dates": [],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_b5c231b6f5a4",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/61"
+    ],
+    "dates": [],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_c1decab608b3",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/27"
+    ],
+    "dates": [],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_c2a6cf672f5a",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/16"
+    ],
+    "dates": [],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_c4cb375da7d6",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/42"
+    ],
+    "dates": [],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_c599e144a3b6",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/58"
+    ],
+    "dates": [],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_c6973b3d53b8",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/26"
+    ],
+    "dates": [],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_c951de53f777",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/24"
+    ],
+    "dates": [],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_cdeba2d52623",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/91"
+    ],
+    "dates": [],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_ce49e0efa722",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/84"
+    ],
+    "dates": [],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_d0074e8d3344",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/87"
+    ],
+    "dates": [],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_d00ef9f16843",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/79"
+    ],
+    "dates": [],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_e2a8dcbc4b9a",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/109"
+    ],
+    "dates": [],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_e585c46c9384",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/59"
+    ],
+    "dates": [],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_e92866965230",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/75"
+    ],
+    "dates": [],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_ecec3d70b680",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/34"
+    ],
+    "dates": [],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_ee42cda34404",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/31"
+    ],
+    "dates": [],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_eeaeaf4866fc",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/111"
+    ],
+    "dates": [],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_f0fc0baf9a9f",
+    "class_name": "Cargo",
+    "size": 1,
+    "recording_ids": [
+      "Cargo/94"
+    ],
+    "dates": [],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_09b5809692bd",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20160904a-39"
+    ],
+    "dates": [
+      "20160904"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_0b2f9c830419",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20180120-139"
+    ],
+    "dates": [
+      "20180120"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_0bd084a1fef9",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20170605-90"
+    ],
+    "dates": [
+      "20170605"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_0cbd3251a8e7",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20181003-193"
+    ],
+    "dates": [
+      "20181003"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_0e80a23088b1",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20180320-148"
+    ],
+    "dates": [
+      "20180320"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_0eaebb577088",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20170715-102"
+    ],
+    "dates": [
+      "20170715"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_175b83230d78",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20180125-140"
+    ],
+    "dates": [
+      "20180125"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_17fc16111a50",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20170802-108"
+    ],
+    "dates": [
+      "20170802"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_1a0104ee9251",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20161102-48"
+    ],
+    "dates": [
+      "20161102"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_1b207384c36f",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20180215-144"
+    ],
+    "dates": [
+      "20180215"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_1e5abd5878b3",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20160724a-27"
+    ],
+    "dates": [
+      "20160724"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_1fd6c60fbaf1",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20161214-50"
+    ],
+    "dates": [
+      "20161214"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_27dbfce9787c",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20170510-75"
+    ],
+    "dates": [
+      "20170510"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_29e67baeec35",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20170925-120"
+    ],
+    "dates": [
+      "20170925"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_2aa74c94f4c2",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20170114-53"
+    ],
+    "dates": [
+      "20170114"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_30604bea1502",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20160507a-4"
+    ],
+    "dates": [
+      "20160507"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_35effe0563dc",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20170430-69"
+    ],
+    "dates": [
+      "20170430"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_3d4ae088d159",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20160806-30"
+    ],
+    "dates": [
+      "20160806"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_40689510980f",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20160616a-20"
+    ],
+    "dates": [
+      "20160616"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_4e027946f60a",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20170509-74"
+    ],
+    "dates": [
+      "20170509"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_500ec3c7bb67",
+    "class_name": "Passengership",
+    "size": 2,
+    "recording_ids": [
+      "Passengership/20160827-35",
+      "Passengership/20160827-36"
+    ],
+    "dates": [
+      "20160827"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_5193e3ec4d15",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20180921-186"
+    ],
+    "dates": [
+      "20180921"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_53fbf2026780",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20170520a-84"
+    ],
+    "dates": [
+      "20170520"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_5906160bc085",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20160528-12"
+    ],
+    "dates": [
+      "20160528"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_5a88d162c21c",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20180926a-191"
+    ],
+    "dates": [
+      "20180926"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_62cd6ad5119c",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20171207-133"
+    ],
+    "dates": [
+      "20171207"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_638ebae294e5",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20170912a-116"
+    ],
+    "dates": [
+      "20170912"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_648029fb97a9",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20160820a-33"
+    ],
+    "dates": [
+      "20160820"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_7111d6c19728",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20170616-94"
+    ],
+    "dates": [
+      "20170616"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_754c831ba849",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20170512a-77"
+    ],
+    "dates": [
+      "20170512"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_797a18fb1d57",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20160916a-43"
+    ],
+    "dates": [
+      "20160916"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_7f7c46996174",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20170522-85"
+    ],
+    "dates": [
+      "20170522"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_8234ca29e3df",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20160507c-6"
+    ],
+    "dates": [
+      "20160507"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_89a19ff94d04",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20180922-187"
+    ],
+    "dates": [
+      "20180922"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_8fc3438999fe",
+    "class_name": "Passengership",
+    "size": 2,
+    "recording_ids": [
+      "Passengership/20170401-63",
+      "Passengership/20170401-64"
+    ],
+    "dates": [
+      "20170401"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_955de41fcd89",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20171120-131"
+    ],
+    "dates": [
+      "20171120"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_99187196c106",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20170527-86"
+    ],
+    "dates": [
+      "20170527"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_9ad30231dc80",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20160629b-24"
+    ],
+    "dates": [
+      "20160629"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_a2f1b01810c9",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20160910-42"
+    ],
+    "dates": [
+      "20160910"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_a3447aa6d5c4",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20180912-25"
+    ],
+    "dates": [
+      "20180912"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_aab9bf8f4c08",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20170312-59"
+    ],
+    "dates": [
+      "20170312"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_c06c25c5077d",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20170218-56"
+    ],
+    "dates": [
+      "20170218"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_c9105b777c90",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20180925-189"
+    ],
+    "dates": [
+      "20180925"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_ce578eb93789",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20160807a-31"
+    ],
+    "dates": [
+      "20160807"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_d12b191f5274",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20180619-174"
+    ],
+    "dates": [
+      "20180619"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_e7bd937ec65a",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20180412-154"
+    ],
+    "dates": [
+      "20180412"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_f3de06a599a8",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20170826a-111"
+    ],
+    "dates": [
+      "20170826"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_f57733078a1c",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20160505-1"
+    ],
+    "dates": [
+      "20160505"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_fdb3b11ec9ce",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20160909-41"
+    ],
+    "dates": [
+      "20160909"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_fe31ff9feaef",
+    "class_name": "Passengership",
+    "size": 1,
+    "recording_ids": [
+      "Passengership/20171122-132"
+    ],
+    "dates": [
+      "20171122"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_0299826ad646",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20180821-230"
+    ],
+    "dates": [
+      "20180821"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_056b9e6c808e",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20160710-23"
+    ],
+    "dates": [
+      "20160710"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_06a5c7556128",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20170614-115"
+    ],
+    "dates": [
+      "20170614"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_0b2233133183",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20170824-134"
+    ],
+    "dates": [
+      "20170824"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_0b67aa2eebc1",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20170203-76"
+    ],
+    "dates": [
+      "20170203"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_10004e9ff6a7",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20171230b-165"
+    ],
+    "dates": [
+      "20171230"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_15f56a367ac0",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20171127-154"
+    ],
+    "dates": [
+      "20171127"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_19f820c686f6",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20180508-203"
+    ],
+    "dates": [
+      "20180508"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_1a2594162adb",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20170419-98"
+    ],
+    "dates": [
+      "20170419"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_1d91a837f3ef",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20180519-208"
+    ],
+    "dates": [
+      "20180519"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_1d9244c2d77d",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20180411-189"
+    ],
+    "dates": [
+      "20180411"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_206d34dc13bc",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20160904-34"
+    ],
+    "dates": [
+      "20160904"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_2b5f3c7b59cc",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20180523-210"
+    ],
+    "dates": [
+      "20180523"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_41f8f6bed74a",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20180630-221"
+    ],
+    "dates": [
+      "20180630"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_44d090916465",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20180316a-186"
+    ],
+    "dates": [
+      "20180316"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_47c8dcdce258",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20180417-192"
+    ],
+    "dates": [
+      "20180417"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_4b3dc626fedc",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20160714a-26"
+    ],
+    "dates": [
+      "20160714"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_54e1f210e381",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20171008-141"
+    ],
+    "dates": [
+      "20171008"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_5f8d083a34f7",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20170608-113"
+    ],
+    "dates": [
+      "20170608"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_63b957bc6a96",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20171126a-153"
+    ],
+    "dates": [
+      "20171126"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_68a1222181c4",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20161121-54"
+    ],
+    "dates": [
+      "20161121"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_69b2a3e79246",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20180610-215"
+    ],
+    "dates": [
+      "20180610"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_6e5c7abc4afe",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20160823-31"
+    ],
+    "dates": [
+      "20160823"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_6e9e01195752",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20170119-69"
+    ],
+    "dates": [
+      "20170119"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_6f7b15d0bb49",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20180612-216"
+    ],
+    "dates": [
+      "20180612"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_73d142c82c3e",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20170629-120"
+    ],
+    "dates": [
+      "20170629"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_76233eae2057",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20160924-38"
+    ],
+    "dates": [
+      "20160924"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_77b08ac4eabb",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20180520-209"
+    ],
+    "dates": [
+      "20180520"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_79da5326000a",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20161206-59"
+    ],
+    "dates": [
+      "20161206"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_8feabdd32565",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20160617-16"
+    ],
+    "dates": [
+      "20160617"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_8ff65ee7b3cd",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20160601-8"
+    ],
+    "dates": [
+      "20160601"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_9a0f2be30a5b",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20160615-14"
+    ],
+    "dates": [
+      "20160615"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_9f71eb60b569",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20170102-68"
+    ],
+    "dates": [
+      "20170102"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_bbac876ecbf4",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20170920-139"
+    ],
+    "dates": [
+      "20170920"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_bbc8e91e80f6",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20160724-27"
+    ],
+    "dates": [
+      "20160724"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_c31e13e50f6d",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20180425-199"
+    ],
+    "dates": [
+      "20180425"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_c35d5fb737b7",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20170122-72"
+    ],
+    "dates": [
+      "20170122"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_c8c00047b3e9",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20160515-3"
+    ],
+    "dates": [
+      "20160515"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_cbfc7fe15191",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20170623-117"
+    ],
+    "dates": [
+      "20170623"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_d0cd01b52ee4",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20180423-198"
+    ],
+    "dates": [
+      "20180423"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_d21f7a0858e5",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20170802-130"
+    ],
+    "dates": [
+      "20170802"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_d54190f3097b",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20180618-219"
+    ],
+    "dates": [
+      "20180618"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_db7ddf0585b9",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20180616-218"
+    ],
+    "dates": [
+      "20180616"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_dcd99e9418ea",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20180211-178"
+    ],
+    "dates": [
+      "20180211"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_e58cb7f77c96",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20180119a-168"
+    ],
+    "dates": [
+      "20180119"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_e8493911e9d8",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20170317-86"
+    ],
+    "dates": [
+      "20170317"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_eea8ba05412b",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20180221-179"
+    ],
+    "dates": [
+      "20180221"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_f9cce297b415",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20171222-160"
+    ],
+    "dates": [
+      "20171222"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_fddf3dfdde33",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20171216-159"
+    ],
+    "dates": [
+      "20171216"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_fe037abaf03d",
+    "class_name": "Tanker",
+    "size": 1,
+    "recording_ids": [
+      "Tanker/20170723a-128"
+    ],
+    "dates": [
+      "20170723"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_008e7d570e75",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171107a-6"
+    ],
+    "dates": [
+      "20171107"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_18f954348cbd",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171122a-20"
+    ],
+    "dates": [
+      "20171122"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_1993469f079d",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171128b-27"
+    ],
+    "dates": [
+      "20171128"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_268aa10cb2a3",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171106-4"
+    ],
+    "dates": [
+      "20171106"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_2dd2a0f32265",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171105b-3"
+    ],
+    "dates": [
+      "20171105"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_319dce1c297a",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171215a-55"
+    ],
+    "dates": [
+      "20171215"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_3b3546538482",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171227a-66"
+    ],
+    "dates": [
+      "20171227"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_3b5aacd1645d",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171120a-18"
+    ],
+    "dates": [
+      "20171120"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_46b1124b25ac",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171105-2"
+    ],
+    "dates": [
+      "20171105"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_4a2b1cc7ca61",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171123-21"
+    ],
+    "dates": [
+      "20171123"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_4e38d12d2462",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171116a-11"
+    ],
+    "dates": [
+      "20171116"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_5094abdbcafe",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171230a-69"
+    ],
+    "dates": [
+      "20171230"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_5c0b07e69bd9",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171203-39"
+    ],
+    "dates": [
+      "20171203"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_6ee5a092d906",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171204a-43"
+    ],
+    "dates": [
+      "20171204"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_717e95c25944",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171124-22"
+    ],
+    "dates": [
+      "20171124"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_74aa67311f37",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171114-8"
+    ],
+    "dates": [
+      "20171114"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_7fa61f9ef671",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171116-10"
+    ],
+    "dates": [
+      "20171116"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_89a8836f626b",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171202-37"
+    ],
+    "dates": [
+      "20171202"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_8d68d4ac8b72",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171207b-47"
+    ],
+    "dates": [
+      "20171207"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_8d8d01db020c",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171115-9"
+    ],
+    "dates": [
+      "20171115"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_8e4aebc88c75",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171201b-33"
+    ],
+    "dates": [
+      "20171201"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_95a019e2cefa",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171207-45"
+    ],
+    "dates": [
+      "20171207"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_9aed66079841",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171120-17"
+    ],
+    "dates": [
+      "20171120"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_9faf9d3c5c7a",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171202a-38"
+    ],
+    "dates": [
+      "20171202"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_a1ece16ba8b4",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171130a-31"
+    ],
+    "dates": [
+      "20171130"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_a389615b37f6",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171111-7"
+    ],
+    "dates": [
+      "20171111"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_a5578db6e7a8",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171203c-41"
+    ],
+    "dates": [
+      "20171203"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_a7ecec7567a6",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171231a-70"
+    ],
+    "dates": [
+      "20171231"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_a8e71588800f",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171118-12"
+    ],
+    "dates": [
+      "20171118"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_b5767e0af892",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171217a-59"
+    ],
+    "dates": [
+      "20171217"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_bf4a10001fe6",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171217-58"
+    ],
+    "dates": [
+      "20171217"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_c55ba23b9c15",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171205-44"
+    ],
+    "dates": [
+      "20171205"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_c58e8b7095a0",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171201-32"
+    ],
+    "dates": [
+      "20171201"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_cdc766441ea2",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171118b-14"
+    ],
+    "dates": [
+      "20171118"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_d391ad9dbca8",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171204-42"
+    ],
+    "dates": [
+      "20171204"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_d4f9ad95cdd1",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171106a-5"
+    ],
+    "dates": [
+      "20171106"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_dab09f2f5bbc",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171215e-56"
+    ],
+    "dates": [
+      "20171215"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_dcff5bacdc78",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171229b-68"
+    ],
+    "dates": [
+      "20171229"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_e3e681cf48d3",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171207a-46"
+    ],
+    "dates": [
+      "20171207"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_e3fc90560c92",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171213a-52"
+    ],
+    "dates": [
+      "20171213"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_e4f05a58a6f8",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171201c-34"
+    ],
+    "dates": [
+      "20171201"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_e83abeae13a2",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171129-30"
+    ],
+    "dates": [
+      "20171129"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_ea1dc8abd7f6",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171118d-16"
+    ],
+    "dates": [
+      "20171118"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_ecf0b9d863d8",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171225-64"
+    ],
+    "dates": [
+      "20171225"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_eea352e7f184",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171201e-36"
+    ],
+    "dates": [
+      "20171201"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_f00fa9d64141",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171219a-60"
+    ],
+    "dates": [
+      "20171219"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_f0c24ffeb404",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171128-25"
+    ],
+    "dates": [
+      "20171128"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_f27c770aa771",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171213-51"
+    ],
+    "dates": [
+      "20171213"
+    ],
+    "split": "support_pool"
+  },
+  {
+    "component_id": "exact_fc1662dbb761",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171118c-15"
+    ],
+    "dates": [
+      "20171118"
+    ],
+    "split": "test"
+  },
+  {
+    "component_id": "exact_ff4e81a61aa1",
+    "class_name": "Tug",
+    "size": 1,
+    "recording_ids": [
+      "Tug/20171121-19"
+    ],
+    "dates": [
+      "20171121"
+    ],
+    "split": "support_pool"
+  }
+]

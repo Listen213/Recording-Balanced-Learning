@@ -1,0 +1,136 @@
+{
+  "lock_version": 3,
+  "dataset": "DeepShip",
+  "experiment_role": "external_validation",
+  "method_locked_on": "ShipsEar",
+  "protocol_note": "Exact SHA256 duplicates are hard components; acoustic similarity is diagnostic only.",
+  "config": {
+    "project": "RIFT_DEEPSHIP_50CLASS_V3_FULL",
+    "dataset": "DeepShip",
+    "experiment_role": "external_validation",
+    "method_origin": {
+      "locked_on_dataset": "ShipsEar",
+      "deepShip_used_for_method_tuning": false,
+      "note": "S0/S1/PB/PT/F0 and PT/F0 hyperparameters are copied from the ShipsEar-locked method."
+    },
+    "class_names": [
+      "Cargo",
+      "Passengership",
+      "Tanker",
+      "Tug"
+    ],
+    "external_split": {
+      "seed": 20261015,
+      "test_ratio": 0.4,
+      "same_day_grouping": false,
+      "segment_sec": 5.0,
+      "hop_sec": 5.0,
+      "target_sr": 16000,
+      "fingerprint_sr": 8000,
+      "fingerprint_window_sec": 20.0,
+      "fingerprint_views": 3,
+      "date_blocked_support_test_split": true,
+      "hard_duplicate_rule": "exact_sha256_only",
+      "acoustic_similarity_role": "diagnostic_only",
+      "acoustic_diagnostic_threshold": 0.997
+    },
+    "few_recording_protocol": {
+      "shots": [
+        2,
+        3,
+        4
+      ],
+      "support_seeds": [
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120
+      ],
+      "source_aware": true,
+      "include_full_support_reference": true,
+      "source_aware_meaning": "For dated classes, avoid selecting two support recordings from the same date within a 2/3/4-rec draw when possible; undated recordings fall back to exact-component-aware sampling."
+    },
+    "methods": [
+      "S0",
+      "S1",
+      "PB",
+      "PT",
+      "F0"
+    ],
+    "proposed_extension": "F0",
+    "segment_probe": {
+      "logistic_C": 0.1
+    },
+    "prototype_tuning": {
+      "rank": 2,
+      "steps": 160,
+      "lr": 0.05,
+      "l2": 0.3,
+      "temperature": 0.25
+    },
+    "fusion": {
+      "alpha": 0.5,
+      "space": "log_probability_geometric"
+    },
+    "statistics": {
+      "hierarchical_bootstrap_iters": 5000,
+      "bootstrap_seed": 20261015
+    },
+    "test_policy": {
+      "print_intermediate_test_metrics": false,
+      "checkpoint_predictions_without_releasing_metrics": true,
+      "do_not_retune_after_results": true
+    },
+    "balanced_subset": {
+      "recordings_per_class": 50,
+      "support_pool_per_class": 30,
+      "frozen_test_per_class": 20,
+      "selection_seed": 20261015,
+      "selection_unit": "official recording/session after exact-SHA256 deduplication",
+      "same_day_hard_grouping": false,
+      "date_blocked_support_test_split": true,
+      "acoustic_similarity_used_for_identity": false,
+      "note": "Acoustic similarity is diagnostic only and never merges recordings or changes the split."
+    }
+  },
+  "paths": {
+    "config": "DEEPSHIP_CONFIG.json",
+    "support_manifest": "manifests_deepship_50/support_pool.json",
+    "test_manifest": "manifests_deepship_50/test.json",
+    "support_cache": "cache/beats_deepship_50/support_pool.pt",
+    "test_cache": "cache/beats_deepship_50/test.pt",
+    "components": "manifests_deepship_50/selected_exact_components.json",
+    "leakage_audit": "manifests_deepship_50/leakage_audit.json",
+    "split_summary": "manifests_deepship_50/split_summary.json",
+    "date_split_diagnostics": "manifests_deepship_50/date_split_diagnostics.json",
+    "acoustic_similarity_diagnostics": "manifests_deepship_50/acoustic_similarity_diagnostics.json",
+    "exact_duplicate_edges": "manifests_deepship_50/exact_duplicate_edges.json"
+  },
+  "config_sha256": "8cc601ae4b939d0000e8d5ee0ad473ef915230d5d79baa84193d71d08b4ac54e",
+  "support_manifest_sha256": "1955c9eee354e89b12d7ab56018c65718084597be7069b53c346aa40902f630c",
+  "test_manifest_sha256": "c9f8fa93e41c6ae8015e8f32d09dd8c67dd67785cb877d89b53d3c92d7e95264",
+  "support_cache_sha256": "339a8c26b4a8b4b33d7b7055d833a4b8e4d4c390a5c1ea795794e58a7c8cdcad",
+  "test_cache_sha256": "43b4307fe7525ee6493b88580581269a0ea3856f7512221e1c25d065ab557d8e",
+  "components_sha256": "609663b4ac859e8c9667485b3c574df9e298fd4b654cd96f76c5d43a43766ac9",
+  "leakage_audit_sha256": "7784f3538d55f15bf9ac2335230744593741758498d9e7d8a470ee801e6999fa",
+  "split_summary_sha256": "6ed78760f01825454ea808903ebf6bdb037a9c036dcca785773222f66e22f83b",
+  "date_split_diagnostics_sha256": "71c353d8cf74a0b296af1b0161731ddae639cad1e653f83f6957679b68f9ec61",
+  "acoustic_similarity_diagnostics_sha256": "f828fb918d7ddff34dc59ef381597f5381e32253c93899db1443599fec46cb17",
+  "exact_duplicate_edges_sha256": "8c16df11aca8956a595e23d5d16ce4ba258d362fb0fbf44d93bc2099cc2c2972"
+}

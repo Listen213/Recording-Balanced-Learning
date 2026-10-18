@@ -1,0 +1,49 @@
+{
+  "classes": {
+    "Cargo": {
+      "recording_units": 109,
+      "wav_files": 109,
+      "duration_hours": 10.693055555555556,
+      "reference_recordings": 110,
+      "inventory_ratio_vs_reference": 0.990909090909091,
+      "session_dir_units": 0,
+      "root_wav_units": 109,
+      "dated_units": 0
+    },
+    "Passengership": {
+      "recording_units": 170,
+      "wav_files": 170,
+      "duration_hours": 9.515,
+      "reference_recordings": 193,
+      "inventory_ratio_vs_reference": 0.8808290155440415,
+      "session_dir_units": 170,
+      "root_wav_units": 0,
+      "dated_units": 170
+    },
+    "Tanker": {
+      "recording_units": 240,
+      "wav_files": 240,
+      "duration_hours": 12.369444444444444,
+      "reference_recordings": 240,
+      "inventory_ratio_vs_reference": 1.0,
+      "session_dir_units": 240,
+      "root_wav_units": 0,
+      "dated_units": 240
+    },
+    "Tug": {
+      "recording_units": 69,
+      "wav_files": 69,
+      "duration_hours": 11.26361111111111,
+      "reference_recordings": 70,
+      "inventory_ratio_vs_reference": 0.9857142857142858,
+      "session_dir_units": 69,
+      "root_wav_units": 0,
+      "dated_units": 69
+    }
+  },
+  "total_recording_units": 588,
+  "total_wav_files": 588,
+  "total_duration_hours": 43.84111111111111,
+  "potentially_incomplete_classes": [],
+  "looks_like_full_or_near_full_dataset": true
+}

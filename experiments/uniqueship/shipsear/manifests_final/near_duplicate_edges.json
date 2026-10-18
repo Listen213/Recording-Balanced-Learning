@@ -1,0 +1,23 @@
+[
+  {
+    "recording_a": "89__E__5M",
+    "recording_b": "92__E__8H_N",
+    "label_a": "E_Ambient_Noise",
+    "label_b": "E_Ambient_Noise",
+    "cosine": 0.9994386041083162
+  },
+  {
+    "recording_a": "86__E__2M",
+    "recording_b": "89__E__5M",
+    "label_a": "E_Ambient_Noise",
+    "label_b": "E_Ambient_Noise",
+    "cosine": 0.9979010830630701
+  },
+  {
+    "recording_a": "86__E__2M",
+    "recording_b": "92__E__8H_N",
+    "label_a": "E_Ambient_Noise",
+    "label_b": "E_Ambient_Noise",
+    "cosine": 0.9977338436793387
+  }
+]
