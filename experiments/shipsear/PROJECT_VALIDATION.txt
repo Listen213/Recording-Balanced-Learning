@@ -1,0 +1,21 @@
+RIFT_FEWREC_FINAL_FAST_FULL validation
+=======================================
+Python compileall: PASS
+Shell syntax scripts/*.sh: PASS
+Synthetic component-aware split logic: PASS
+Synthetic S0/S1/PB/PT/F0 evaluation: PASS
+Atomic draw checkpoint save/load: PASS
+Checkpoint validity + resume path: PASS
+FAST hierarchical bootstrap: PASS
+SLOW reference hierarchical bootstrap: PASS
+FAST == SLOW reference for all three metrics: EXACT within atol=1e-12
+RNG call order preserved: PASS
+5000-resample vectorized benchmark path: PASS
+Final-lock verifier inherited and compiled: PASS
+Paper table generator inherited and compiled: PASS
+
+Scientific invariants:
+- FINAL_CONFIG is unchanged from RIFT_FEWREC_FINAL_FULL.
+- Frozen final split/cache/FINAL_LOCK are migrated, not regenerated, for the current user workflow.
+- Methods/hyperparameters/support seeds/bootstrap definition are unchanged.
+- Optimization changes execution only, not the statistical protocol.
