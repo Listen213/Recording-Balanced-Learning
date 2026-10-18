@@ -1,0 +1,52 @@
+{
+  "classes": {
+    "Cargo": {
+      "selected_recordings": 50,
+      "selected_dated_recordings": 0,
+      "selected_unique_dates": 0,
+      "support_recordings": 30,
+      "test_recordings": 20,
+      "support_unique_dates": 0,
+      "test_unique_dates": 0,
+      "same_date_cross_split": [],
+      "same_date_cross_split_count": 0,
+      "fallback_split_date_block": null
+    },
+    "Passengership": {
+      "selected_recordings": 50,
+      "selected_dated_recordings": 50,
+      "selected_unique_dates": 49,
+      "support_recordings": 30,
+      "test_recordings": 20,
+      "support_unique_dates": 29,
+      "test_unique_dates": 20,
+      "same_date_cross_split": [],
+      "same_date_cross_split_count": 0,
+      "fallback_split_date_block": null
+    },
+    "Tanker": {
+      "selected_recordings": 50,
+      "selected_dated_recordings": 50,
+      "selected_unique_dates": 50,
+      "support_recordings": 30,
+      "test_recordings": 20,
+      "support_unique_dates": 30,
+      "test_unique_dates": 20,
+      "same_date_cross_split": [],
+      "same_date_cross_split_count": 0,
+      "fallback_split_date_block": null
+    },
+    "Tug": {
+      "selected_recordings": 50,
+      "selected_dated_recordings": 50,
+      "selected_unique_dates": 31,
+      "support_recordings": 30,
+      "test_recordings": 20,
+      "support_unique_dates": 20,
+      "test_unique_dates": 11,
+      "same_date_cross_split": [],
+      "same_date_cross_split_count": 0,
+      "fallback_split_date_block": null
+    }
+  }
+}

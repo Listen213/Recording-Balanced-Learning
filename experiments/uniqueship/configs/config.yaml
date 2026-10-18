@@ -1,0 +1,63 @@
+project:
+  dataset_root: /root/autodl-tmp/UniqueShip/allclass_5hours
+  source_project: /root/autodl-tmp/RIFT_FEWREC_FINAL_FAST_FULL
+  output_dir: outputs
+  cache_file: cache/uniqueship_8class_beats_5s.npz
+  selected_manifest: data/selected_vessel_clips.csv
+  protocol_file: data/protocols/fold_1_8class_subset.csv
+  selection_table: data/subset_selection.csv
+  official_fold: 1
+
+classes:
+  exclude: [background]
+  # Metadata-only eligibility rule fixed before any model training/result inspection:
+  # at least 20 distinct train vessels and at least 10 distinct test vessels
+  # in official Fold 1. For UniqueShip v1.0 this yields exactly the 8 classes below.
+  min_train_vessels: 20
+  min_test_vessels: 10
+  expected_selected_classes:
+    - cargo
+    - fishing
+    - other
+    - passengership
+    - pleasurecraft
+    - sailing
+    - tanker
+    - tug
+
+# Compute-saving protocol:
+# - identify eligible classes using only Fold-1 metadata counts;
+# - select a fixed balanced support pool from official Fold-1 train;
+# - keep the entire official Fold-1 test set for the eligible classes.
+subset:
+  support_pool_sources_per_class: 20
+  selection_seed: 20261016
+  test_policy: full_official_test_for_eligible_classes
+
+features:
+  target_sr: 16000
+  clip_sec: 5.0
+  batch_size: 32
+  chunk_size: 512
+  dtype: float16
+
+few_vessel:
+  k_values: [2, 3, 4]
+  draws: 100
+  seed_start: 101
+
+classifier:
+  C: 0.1
+  max_iter: 2000
+  solver: lbfgs
+
+controls:
+  methods: [s0, classbal, s1]
+  scaler_modes: [segment, source]
+  sampler_strategies: [min, median]
+  sampler_inner_seeds: 5
+  heads: [lr, linear_svc, sgd_log]
+
+bootstrap:
+  iterations: 5000
+  seed: 20261016

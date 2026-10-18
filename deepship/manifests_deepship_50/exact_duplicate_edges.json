@@ -1,0 +1,42 @@
+[
+  {
+    "a": "Passengership/20160827-35",
+    "b": "Passengership/20160827-36",
+    "reason": "unit_sha256"
+  },
+  {
+    "a": "Passengership/20170111-51",
+    "b": "Passengership/20170111-52",
+    "reason": "unit_sha256"
+  },
+  {
+    "a": "Passengership/20170219-57",
+    "b": "Passengership/20170219-58",
+    "reason": "unit_sha256"
+  },
+  {
+    "a": "Passengership/20170401-63",
+    "b": "Passengership/20170401-64",
+    "reason": "unit_sha256"
+  },
+  {
+    "a": "Passengership/20160827-35",
+    "b": "Passengership/20160827-36",
+    "reason": "wav_sha256"
+  },
+  {
+    "a": "Passengership/20170111-51",
+    "b": "Passengership/20170111-52",
+    "reason": "wav_sha256"
+  },
+  {
+    "a": "Passengership/20170219-57",
+    "b": "Passengership/20170219-58",
+    "reason": "wav_sha256"
+  },
+  {
+    "a": "Passengership/20170401-63",
+    "b": "Passengership/20170401-64",
+    "reason": "wav_sha256"
+  }
+]

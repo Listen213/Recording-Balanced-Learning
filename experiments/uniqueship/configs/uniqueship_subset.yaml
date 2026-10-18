@@ -1,0 +1,15 @@
+project:
+  cache_file: cache/uniqueship_8class_beats_5s.npz
+  protocol_file: data/protocols/fold_1_8class_subset.csv
+
+classifier:
+  C: 0.1
+  max_iter: 2000
+
+few_vessel:
+  seed_start: 101
+  draws: 100
+  k_values:
+    - 2
+    - 3
+    - 4
