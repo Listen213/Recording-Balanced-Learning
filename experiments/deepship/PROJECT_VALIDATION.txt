@@ -1,0 +1,28 @@
+RIFT_DEEPSHIP_50CLASS_V3_FULL validation
+=========================================
+Python compileall: PASS
+Shell syntax scripts/*.sh: PASS
+Core synthetic methods: PASS
+Methods: S0 / S1 / PB / PT / F0
+Component-aware + date-aware support sampling: PASS
+Fast hierarchical bootstrap: PASS
+Synthetic V3 split: PASS
+Exact SHA256 hard deduplication: PASS
+Repeated same-day official sessions remain distinct: PASS
+Exact support/test counts: PASS
+Hard leakage audit path: PASS
+Acoustic fingerprint diagnostic-only path: PASS
+Freeze + lock verification: PASS
+Project symlink check: PASS
+
+V3 scientific safeguards
+------------------------
+- DeepShip remains an external-validation dataset; ShipsEar-locked model hyperparameters are unchanged.
+- Exactly 50 official recording/session units per class are targeted.
+- 30/class support pool + 20/class frozen test.
+- Hard duplicate identity uses exact SHA256 evidence only.
+- Same calendar day is NOT a hard recording/component identity.
+- Acoustic similarity is DIAGNOSTIC ONLY and never merges, deletes, or resplits recordings.
+- Date is only a correlation-control field for support/test blocking and support-draw diversity.
+- No 5-second segment is counted as an independent shot.
+- OMP/MKL/OpenBLAS/NumExpr thread counts are fixed to integer 8 in workflow scripts.
