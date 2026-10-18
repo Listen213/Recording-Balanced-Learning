@@ -1,6 +1,0 @@
-{
-  "recording_id_overlap": 0,
-  "wav_sha256_overlap": 0,
-  "exact_component_overlap": 0,
-  "hard_leakage_clean": true
-}
